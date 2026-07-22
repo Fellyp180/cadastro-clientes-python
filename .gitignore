@@ -1,1 +1,16 @@
+# Banco de dados local (SQLite)
+*.db
+clientes.db
 
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Configurações do VS Code / IDEs
+.vscode/
+.idea/
